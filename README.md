@@ -1,28 +1,6 @@
-# @je-ex/server
+# @je-ex/client
 
-> This is an example of a dummy document.
-
-- #### 📥 Usage
-
-    ```Bash
-    npm i @je-ex/server
-    ```
-
-- #### 🌟 Syntax
-
-    ```ts
-    import { Server } from '@je-ex/server';
-
-    const server = new Server({ ... });
-
-    server.start();
-    ```
-
----
-
-### Documentation
-
-  - [API](./src/docs/src/api.md)
+> This package is not intended for general use, but is a utility for the [`@je-es/server`]() package.
 
 ---
 

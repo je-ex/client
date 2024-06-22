@@ -6,26 +6,28 @@
         "**/CVS": true,
         "**/.DS_Store": true,
         "**/Thumbs.db": true,
-        "package-lock.json": true,
         "LICENSE": true,
-        ".gitattributes": true,
-        ".gitignore": true,
-        ".npmignore": true,
         "changes": true,
-        "README.md": true,
         ".vscode": true,
-        "jest.config.js": true
+        "jest.config.js": true,
+        "node_modules": true,
+        "tsconfig.json": true,
+        "package-lock.json": true,
+        ".npmignore": true,
+        ".gitignore": true,
+        ".gitattributes": true
     },
     "hide-files.files": [
-        "package-lock.json",
         "LICENSE",
-        ".gitattributes",
-        ".gitignore",
-        ".npmignore",
         "changes",
-        "README.md",
         ".vscode",
-        "jest.config.js"
+        "jest.config.js",
+        "node_modules",
+        "tsconfig.json",
+        "package-lock.json",
+        ".npmignore",
+        ".gitignore",
+        ".gitattributes"
     ],
     "material-icon-theme.folders.associations": {
         "media" : "Middleware"
